@@ -19,7 +19,9 @@
  - 封城等交通管制措施能降低传播速度，但无法遏止病毒在城市内扩散
 
 
-## 剩下由建模队友计算特征重要度
+## 建模队友计算特征重要度
+
+------------
 
 模拟界面 ![Simulation](https://github.com/izcat/WuhanNewPneumonia/blob/master/picture/Simulation.png)
 增长趋势图 ![figure](https://github.com/izcat/WuhanNewPneumonia/blob/master/picture/Figure.png)
@@ -28,3 +30,7 @@
 以上所有工作在1.11号完结，目前一周过去了，当前的数据已经远高于我们的预期 O.O
 
 粗糙的SIR模型预测 ![predict](https://github.com/izcat/WuhanNewPneumonia/blob/master/picture/2.2%E5%8F%B7%E6%8B%9F%E5%90%88%E5%90%8E.png)
+
+
+希望早日战胜疫情，如上图2.22号左右到达峰值吧 :) 
+
